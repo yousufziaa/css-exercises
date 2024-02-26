@@ -1,0 +1,24 @@
+/* .shared {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+} */
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+
+.first {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.second {
+    background-color: rgb(255, 232, 24);
+}
+
+
